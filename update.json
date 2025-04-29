@@ -1,5 +1,6 @@
 {
   "version": "0.1",
+  "keepFiles": false,
   "files": {
     "data.zip": {
       "url": "http://otclient.ovh/files/data.zip"
