@@ -5,10 +5,10 @@
     "data.zip": "7d576b9f"
   },
   "keepFiles": false,
-  "binary": {
+  "binary": [
     {
       "file": "otclient_dx.exe",
       "checksum": "abd4e20a"
     }
-  }
+  ]
 }
