@@ -1,40 +1,14 @@
 {
-  "version": "v1",
-  "keepFiles": false,
+  "newestVersion": "v1",
+  "url": "https://raw.githubusercontent.com/Tofame/WosClientUpdates/releases/v1",
   "files": {
-    "data.zip": {
-      "url": "http://otclient.ovh/files/data.zip"
-    },
-    "init.lua": {
-      "url": "http://otclient.ovh/files/init.lua"
-    },
-    "modules": {
-      "url": "http://otclient.ovh/files/modules.zip"
-    },
-    "layouts": {
-      "url": "http://otclient.ovh/files/layouts.zip"
-    }
+    "data.zip": "7d576b9f"
   },
-  "binaries": {
-    "WIN32-WGL": {
-      "file": "otclient_gl.exe",
-      "url": "http://otclient.ovh/files/otclient_gl.exe"
-    },
-    "WIN32-EGL": {
+  "keepFiles": false,
+  "binary": {
+    {
       "file": "otclient_dx.exe",
-      "url": "http://otclient.ovh/files/otclient_dx.exe"
-    },
-    "X11-GLX": {
-      "file": "otclient_linux",
-      "url": "http://otclient.ovh/files/otclient_linux"
-    },
-    "X11-EGL": {
-      "file": "otclient_linux",
-      "url": "http://otclient.ovh/files/otclient_linux"
-    },
-    "ANDROID-EGL": {
-      "file": "",
-      "url": ""
+      "checksum": "abd4e20a"
     }
   }
 }
