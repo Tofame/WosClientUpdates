@@ -6,7 +6,7 @@
   },
   "keepFiles": false,
   "binary": {
-      "fileDx": "otclient_dx_x64.exe",
+      "fileDx": "otclient_dx.exe",
       "checksumDx": "40b00abf"
   }
 }
