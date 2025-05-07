@@ -2,11 +2,11 @@
   "newestVersion": "v3",
   "url": "http://github.com/Tofame/WosClientUpdates/releases/download/",
   "files": {
-    "data.zip": "bb02f875"
+    "data.zip": "aa72def6"
   },
   "keepFiles": false,
   "binary": {
-      "fileDx": "otclient_dx.exe",
-      "checksumDx": "26feb2e"
+      "fileDx": "otclient_dx_x64.exe",
+      "checksumDx": "40b00abf"
   }
 }
