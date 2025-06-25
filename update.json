@@ -1,12 +1,12 @@
 {
-  "newestVersion": "v5",
+  "newestVersion": "v6",
   "url": "http://github.com/Tofame/WosClientUpdates/releases/download/",
   "files": {
-    "data.zip": "bff14f42"
+    "data.zip": "68e93f5c"
   },
   "keepFiles": false,
   "binary": {
       "fileDx": "otclient_dx_x64",
-      "checksumDx": "40b00abf"
+      "checksumDx": "d947c86d"
   }
 }
