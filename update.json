@@ -1,8 +1,8 @@
 {
-  "newestVersion": "v8",
+  "newestVersion": "v9",
   "url": "http://github.com/Tofame/WosClientUpdates/releases/download/",
   "files": {
-    "data.zip": "b0ae8403"
+    "data.zip": "f8abb165"
   },
   "keepFiles": false,
   "binary": {
