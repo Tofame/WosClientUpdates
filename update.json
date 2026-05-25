@@ -1,14 +1,14 @@
 {
-  "newestVersion": "v12",
+  "newestVersion": "v13",
   "url": "http://github.com/Tofame/WosClientUpdates/releases/download/",
   "files": {
-    "data.zip": "0a86afb1"
+    "data.zip": "474316c7"
   },
   "keepFiles": false,
   "binary": {
     "fileGl": "otclient_gl_x64",
     "fileDx": "otclient_dx_x64",
-    "checksumGl": "3a2df439",
-    "checksumDx": "a2843953"
+    "checksumGl": "0356617d",
+    "checksumDx": "b9dc1466"
   }
 }
